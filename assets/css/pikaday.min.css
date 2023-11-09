@@ -214,5 +214,9 @@
   cursor: help;
 }
 
+#senmail {
+  opacity: 0;
+}
+
 /* # sourceMappingURL=pikaday.min.css.map */
 
